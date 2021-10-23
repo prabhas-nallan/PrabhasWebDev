@@ -1,0 +1,21 @@
+body{
+    background-color: #F7D59C;
+    text-align: center;
+}
+hr{
+    border-style:none;
+    background-color: #F7D59C;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 20%;
+    border-collapse: collapse;
+}
+h1{
+    color:maroon;
+    font-style: italic;
+}
+p{
+    color: rgb(174, 0, 255);
+    text-decoration: solid;
+}

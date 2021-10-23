@@ -1,0 +1,17 @@
+h1:hover{
+    color: red;
+}
+/*
+img{
+  color: red;
+}
+*/
+.bacon:hover{
+    background-color: black;
+}
+.broccoli:hover{
+    background-color: red;
+}
+.circular{
+    border-radius: 100%;
+}
